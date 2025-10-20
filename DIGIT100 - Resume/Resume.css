@@ -1,12 +1,34 @@
-body {
-    background-color: #ffffff;
+/* horizontal containers */
+.h-container {
+    display: flex;
+    flex-direction: row;
 }
-
+/* vertical containers */
+.v-container {
+    display: flex;
+    flex-direction: column;
+}
+/* flex containers for subheader 1 */
+.h-container div1 {
+    color: #5bcefa;
+    font-family:courier, fixed, monospace;
+    font-size: 21px;
+    width: 21em;
+    margin: 14px;
+    padding: 7px;
+    text-align: center;
+    font-size: 21px;
+}
+/* hyperlinks formatting */
 a {
     color: inherit;
     text-decoration: inherit;
 }
-
+/* body formatting */
+body {
+    background-color: #ffffff;
+}
+/* main header formatting */
 h1 {
     color: #5bcefa;
     font-family: courier, fixed, monospace;
@@ -14,11 +36,7 @@ h1 {
     margin-left: 10em;
     text-decoration: none;
 }
-
+/* secondary header formatting */
 h2 {
-    color: #5bcefa;
-    font-family: courier, fixed, monospace;
-    font-size: 21px;
-    margin-left: 5em;
-    text-decoration: none;
+    
 }
