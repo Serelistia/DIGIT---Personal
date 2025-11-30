@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <person who="Queen Victoria">
+        Queen Alexandrina Victoria was the queen of the UK from 20 June 1837 until her death on 22 January 1901.
+    </person>
+    <entry date="1858-08-30">
+        <header> 30 August </header>
+        <NFLtVTA> Newfoundland to Valentia: "Can you read?" </NFLtVTA>
+        <VTAtNFL>
+            Valentia to Newfoundland:
+            “Yes, we can read you. Send news slowly. Saward asks where Kells is? How are my signals? Persia arrived Saturday. Receive on one galvanometer only, fault signals, produced currents from coil of your larger galvanometer.” (None of the words italicized were read in Newfoundland.
+        </VTAtNFL>
+        <NFLtVTA>
+            Newfoundland to Valentia:
+            “Can read some of your sending. Take this message:—New York. The Directors Atlantic Telegraph Company, London. Parties pressing upon us messages for Europe. When will line be open for business? Has Mr. Morgan sailed for New York? Early in the morning of September 1, please send me message that I can read at the celebration that day, and another on the 2d, I can read at dinner that evening.
+            “C.W. FIELD.”
+        </NFLtVTA>
+    </entry>
+</root>
